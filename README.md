@@ -3,7 +3,10 @@ The Windows Azure Toolkit for Social Games is a set of guidance, samples, and to
 
 See the wiki for more documentation.
 
-* [Getting Started](https://github.com/WindowsAzure-Toolkits/wa-toolkit-games/wiki/getting-started)
-* [Running the Samples](https://github.com/WindowsAzure-Toolkits/wa-toolkit-games/wiki/running)
-* [Deployment](https://github.com/WindowsAzure-Toolkits/wa-toolkit-games/wiki/deployment)
-* [Architecture](https://github.com/WindowsAzure-Toolkits/wa-toolkit-games/wiki/architecture)
+* [Wiki](https://github.com/yuntopia/wa-toolkit-games/wiki)
+* [Getting Started](https://github.com/yuntopia/wa-toolkit-games/wiki/getting-started)
+* [Running the Samples](https://github.com/yuntopia/wa-toolkit-games/wiki/running)
+* [Deployment](https://github.com/yuntopia/wa-toolkit-games/wiki/deployment)
+* [Architecture](https://github.com/yuntopia/wa-toolkit-games/wiki/architecture)
+
+Originally forked from Windows DPE. 
